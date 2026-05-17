@@ -1,0 +1,13 @@
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+Thumbs.db
+.vscode/
+nltk_data/
+# Exclude dataset files from GitHub (too large)
+data/resume/Resume.csv
+data/data/
